@@ -1,0 +1,61 @@
+Day 4
+
+1) Check whether the given year is leap year or not. If year is leap print ‘LEAP YEAR’ else
+
+print ‘COMMON YEAR’.
+
+Hint: • a year is a leap year if its number is exactly divisible by 4 and is not
+
+exactly divisible by 100
+
+• a year is always a leap year if its number is exactly divisible by 400
+
+
+
+
+
+2)Write a Python program to sum three given integers. However, if two or more values are
+
+equal sum will be zero.
+
+
+
+
+
+3) Ask user to enter age, gender ( M or F ) and then using following rules print their place of service.
+
+if employee is female, then she will work only in urban areas.
+
+if employee is a male and age is in between 20 to 40 then he may work in anywhere
+
+if employee is male and age is in between 40 t0 60 then he will work in urban areas only.
+
+And any other input of age should print "ERROR".
+
+
+
+
+
+4) Write a program to print absolute vlaue of a number entered by user. E.g.-
+
+INPUT: 1        OUTPUT: 1
+
+INPUT: -1        OUTPUT: 1
+
+
+
+
+
+5) A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+
+Take following input from user
+
+Number of classes held
+
+Number of classes attended.
+
+And print
+
+percentage of class attended
+
+Is student is allowed to sit in exam or not.
